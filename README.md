@@ -9,7 +9,7 @@ I am passionate about bridging the gap between hardware and software. My experti
 ## 🛠️ Technical Skills
 
 - **Languages:** C, C++, Python, Assembly Level Programming.
-- **Microcontrollers & Hardware:** STM32 (ARM Cortex-M), Raspberry Pi, ESP32, AVR, Flex Sensors
+- **Microcontrollers & Hardware:** STM32 (ARM Cortex-M), Raspberry Pi, ESP32, AVR, Flex Sensors, IR / Eye Blink Sensors
 - **Protocols & Interface:** I2C, SPI, UART, GPIO
 - **Software & Simulation:** Keil uVision, STM32CubeIDE, MATLAB, Proteus, YOLO (v11/v10)
 - **Certifications:** National Instruments CLAD Certification
@@ -28,11 +28,14 @@ I am passionate about bridging the gap between hardware and software. My experti
 - **Hardware/Software Stack:** Flex Sensors, Microcontroller Unit, Sensor Integration, Specialized I2C Communication.
 - **Key Impact:** Designed modular firmware to process analog sensor matrices into digital text streams with minimal latency.
 
+### 🕶️ Smart Anti-Sleeping Glasses for Accident Prevention
+- **Description:** Developed an intelligent wearable pair of glasses designed to detect driver drowsiness and prevent road accidents.
+- **Hardware/Software Stack:** IR Sensors / Eye Blink Sensors, Microcontroller Unit, Buzzer Alert System, Real-Time Low-Latency Threshold Processing.
+- **Key Impact:** Designed power-efficient firmware logic to analyze real-time blinking intervals, triggering an immediate audible threshold alarm if eyelids remain closed beyond a specified time frame.
+
 ### 📐 Precision Tilt Measurement System
 - **Description:** Designed a high-accuracy orientation and tilt-monitoring framework for industrial or robotic calibration.
 - **Hardware/Software Stack:** Complementary Filters, Specialized I2C Protocols, Accelerometer/Gyroscope Sensor Integration.
-
-
 
 ---
 
