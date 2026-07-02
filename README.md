@@ -32,15 +32,7 @@ I am passionate about bridging the gap between hardware and software. My experti
 - **Description:** Designed a high-accuracy orientation and tilt-monitoring framework for industrial or robotic calibration.
 - **Hardware/Software Stack:** Complementary Filters, Specialized I2C Protocols, Accelerometer/Gyroscope Sensor Integration.
 
----
 
-## 📊 GitHub Stats
-
-![Swaroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teja-swaroop23&show_icons=true&theme=radical)
-
-![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teja-swaroop23&layout=compact&theme=radical)
-
----
 
 ## 🤝 Connect with Me
 
