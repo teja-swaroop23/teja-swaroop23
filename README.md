@@ -8,7 +8,7 @@ I am passionate about bridging the gap between hardware and software. My experti
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C, C++, Python, Assembly
+- **Languages:** C, C++, Python, Assembly Level Programming.
 - **Microcontrollers & Hardware:** STM32 (ARM Cortex-M), Raspberry Pi, ESP32, AVR, Flex Sensors
 - **Protocols & Interface:** I2C, SPI, UART, GPIO
 - **Software & Simulation:** Keil uVision, STM32CubeIDE, MATLAB, Proteus, YOLO (v11/v10)
