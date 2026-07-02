@@ -34,7 +34,10 @@ I am passionate about bridging the gap between hardware and software. My experti
 
 
 
+---
+
 ## 🤝 Connect with Me
 
+- **Personal Portfolio:** [teja-swaroop23.github.io/my-portfolio](https://teja-swaroop23.github.io/my-portfolio/)
 - **Email:** tejaswaroop2384@gmail.com
 - **LinkedIn:** [linkedin.com/in/tejaswaroopvaddi](https://www.linkedin.com/in/tejaswaroopvaddi)
